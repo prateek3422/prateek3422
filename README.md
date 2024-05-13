@@ -14,4 +14,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek3422&" alt="prateek3422" /></p>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Breadcrumbsprateek3422l&theme=tokyo-night)](https://github.com/Breadcrumbsprateek3422/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prateek3422&theme=tokyo-night)](https://github.com/prateek3422/github-readme-activity-graph)
